@@ -1,0 +1,32 @@
+{
+  "name": "ismobile-next-ssr",
+  "version": "1.0.0",
+  "description": "Detect mobile device for nextjs app server component",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmahbub/ismobile-next-ssr.git"
+  },
+  "keywords": [
+    "Mobile",
+    "detect",
+    "for",
+    "nextjs",
+    "app",
+    "server",
+    "component"
+  ],
+  "author": "idmahbub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idmahbub/ismobile-next-ssr/issues"
+  },
+  "homepage": "https://github.com/idmahbub/ismobile-next-ssr#readme",
+  "devDependencies": {
+    "next": "^13.5.5",
+    "ua-parser-js": "^1.0.37"
+  }
+}
