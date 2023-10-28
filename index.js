@@ -1,4 +1,3 @@
-module.exports = isMobile
 import { headers } from 'next/headers';
 import { UAParser } from 'ua-parser-js';
 const isMobile = () => {
@@ -11,3 +10,4 @@ const isMobile = () => {
     else
         return false
 }
+module.exports = isMobile

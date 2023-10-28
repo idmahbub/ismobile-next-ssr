@@ -1,6 +1,6 @@
 {
   "name": "ismobile-next-ssr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Detect mobile device for nextjs app server component",
   "main": "index.js",
   "scripts": {
