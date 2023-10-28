@@ -25,7 +25,7 @@
     "url": "https://github.com/idmahbub/ismobile-next-ssr/issues"
   },
   "homepage": "https://github.com/idmahbub/ismobile-next-ssr#readme",
-  "devDependencies": {
+  "dependencies": {
     "next": "^13.5.5",
     "ua-parser-js": "^1.0.37"
   }
